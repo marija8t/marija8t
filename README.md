@@ -64,7 +64,7 @@ Member | 2021-Present
 
 🌟 Projects
 ------------
-[NewsFeed](Link to Project Repository)
+[NewsFeed]
 - A Flask-based web app for displaying tech news from Hacker News.
 - Features include automated updates, user authentication, and a secure, efficient deployment.
 - Achieved a Mozilla Observatory score of ‘B’; Pylint scores of 9.43 and 8.86.
